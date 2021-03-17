@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @layup
-- Currently a fourth year student at UVIC 
+Hey my name is Tommy and i'm a fourth year computer science student at UVIC 
