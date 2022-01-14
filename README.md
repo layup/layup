@@ -7,7 +7,8 @@
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/tommylay/">
   <img align="left" alt="Tommys's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-:email: 
+
+[:email:](mailto:tlaymbss@gmail.com)
 
 <br /> 
 
