@@ -1,4 +1,6 @@
-### Hey my name is Tommy and i'm a fourth year computer science student at UVIC 
+### Hey my name is Tommy and I'm, a full stack developer 
+- Bachelor of Computer Science at University of Victoria 2022
+
 <br /> 
 
 ### Connect with me 
@@ -9,6 +11,10 @@
 
 ### Langauge and Tools: 
 - React 
+- React Native
 - NodeJS 
 - TailwindCSS 
+- Python 
+- C++ 
+- Java 
 
