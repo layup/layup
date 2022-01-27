@@ -1,4 +1,4 @@
-### Hello Welcome to my page, my name is Tommy and I'm a full stack developer located in BC, Canada 
+### Hello there! My name is Tommy and I'm a full stack developer located in BC, Canada 
 - Bachelor of Computer Science at University of Victoria 2022
 
 ### Connect with me
