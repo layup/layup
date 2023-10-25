@@ -1,7 +1,12 @@
-### Hello there! My name is Tommy and I'm a full stack developer located in BC, Canada 
-- Bachelor of Computer Science at University of Victoria 2022
+# Hey, I'm Tommy 👋🏼 
+👨‍💻 Full Stack Developer <br>
+📍 Victoria, BC <br>
+🎓 Bachelor of Computer Science at the University of Victoria 2022 <br>
 
 ### Connect with me
+<a href="https://www.linkedin.com/in/tommylay/">
+  <img align="left" alt="Tommys's Linkedin" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
+</a>
 
 
 [:email:](mailto:personal@tommylay.com)
