@@ -1,5 +1,5 @@
 # Hey, I'm Tommy 👋🏼 
-👨‍💻 Full Stack Developer <br>
+👨‍💻 Software Engineer <br>
 📍 Victoria, BC <br>
 🎓 Bachelor of Computer Science at the University of Victoria 2022 <br>
 
