@@ -4,10 +4,9 @@
 🎓 Bachelor of Computer Science at the University of Victoria 2022 <br>
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/tommylay/">
-  <img align="left" alt="Tommys's Linkedin" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
-</a>
 
+<a href="https://linkedin.com/in/tommylay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommylay" height="30" width="40" /></a>
+</p>
 
 [:email:](mailto:personal@tommylay.com)
 
