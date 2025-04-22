@@ -5,15 +5,14 @@
 
 ### Connect with me
 
-
-
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/tommylay" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommylay" height="20" width="30" />
   </a>
   <a href="mailto:personal@tommylay.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" height="20" width="20" /> </a>
 </p>
+
 
 
 ### Langauge and Tools: 
